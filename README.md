@@ -27,7 +27,7 @@ First run `npm install yarn -g` to install yarn globally (if you haven't already
 Then run:
 
 ```
-yarn install
+npm install
 ```
 After installation, you should now see a `node_modules` folder.
 
